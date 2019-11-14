@@ -1,0 +1,20 @@
+div {
+  display: block;
+}
+
+.footer {
+  text-align: center;
+  padding: 30px;
+  background-color: #B26E4B;
+  opacity: 0.8;
+}
+
+.footer a {
+  font-size: 50px;
+  color: #000000;
+}
+
+.fa-fw {
+    text-align: center;
+    width: 1.25em;
+}

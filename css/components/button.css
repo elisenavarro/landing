@@ -1,0 +1,14 @@
+/* Banner CSS file */
+.btn-find {
+    display: inline-block;
+    color: #f2f2f2;
+    background-color: #B26E4B;
+    opacity: 1.0;
+    padding: 16px 36px;
+    border-radius: 50px;
+}
+
+.btn-find:hover {
+  opacity: .8;
+  transition: 0.5s;
+}

@@ -1,0 +1,57 @@
+.body {
+    width: 900px;
+    margin: auto;
+}
+
+.body-header {
+  text-align: center;
+  display: block;
+  font-size: 1.5em;
+  margin-top: 1.0em;
+  margin-bottom: 1.0em;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-weight: bold;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  background-color: white;
+}
+
+.card p {
+  opacity: 0.5 ;
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.card h2 {
+  font-weight: lighter;
+}
+
+.card h3 {
+  display: block;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-weight: bold;
+}
+
+.card img {
+  height:100px;
+}
